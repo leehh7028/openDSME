@@ -1,0 +1,9 @@
+06:50:07 **** Incremental Build of configuration release for project inet-dsme ****
+make MODE=release all 
+cd src && make
+make[1]: Entering directory '/home/com/omnetpp-5.6.1/samples_workspace/inet-dsme/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/home/com/omnetpp-5.6.1/samples_workspace/inet-dsme/src'
+
+06:50:09 Build Finished. 0 errors, 0 warnings. (took 2s.375ms)
+
